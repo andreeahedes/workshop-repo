@@ -1,3 +1,6 @@
 pizza
 burgers
 curry
+french fries
+doughnuts
+mai tai 
